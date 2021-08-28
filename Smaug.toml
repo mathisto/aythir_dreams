@@ -14,6 +14,15 @@ edition = "standard"
 
 [dependencies]
 maw = "1.4.1"
+draco = "0.6.1"
+color = "0.1.2"
+draco-common = "0.4.1"
+draco-state = "0.2.0"
+draco-events = "0.2.0"
+kenney-ui-pack = "1.0.0"
+kenney-fonts = "1.0.0"
+kenney-game-icons = "1.0.0"
+draco-ui = "0.4.0"
 
 [itch]
 # The Project URL you set when you created the game on Itch.io. https://my-username.itch.io/my-game.
